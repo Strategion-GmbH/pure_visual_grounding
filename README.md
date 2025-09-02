@@ -290,14 +290,6 @@ We welcome contributions! Please see our contributing guidelines for more inform
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
-
-For issues, questions, or feature requests:
-
-1. Check the [documentation](https://github.com/hamidkhalid-saar/pure-visual-grounding)
-2. Review existing issues on GitHub
-3. Create a new issue with detailed information
-
 ## Changelog
 
 ### v1.0.6
