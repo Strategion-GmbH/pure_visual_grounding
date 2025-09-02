@@ -289,22 +289,8 @@ We welcome contributions! Please see our contributing guidelines for more inform
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Changelog
-
-### v1.0.6
-
-- Improved error handling and metadata processing
-- Enhanced prompt templates
-- Better support for technical documents
-
-### v1.0.2
-
-- Initial stable release
-- Core PDF processing functionality
-- LangChain integration
-
 ---
 
-**Author**: Hamid Khalid (hamid.khalid@uni-saarland.de)
+**Author**: Strategion (development@strategion.de)
 
 **Keywords**: PDF, OCR, Vision, LLM, Document Processing, Technical Documents, RAG, LangChain
