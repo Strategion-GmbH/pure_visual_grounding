@@ -1,0 +1,11 @@
+venv
+dist*
+pure_visual_grounding.egg-info
+__pycache__/
+.ipynb_checkpoints
+.idea/
+.vscode/
+pure_visual_grounding.iml
+MANIFEST.in
+USAGE_EXAMPLES.md
+PYPI_UPLOAD.sh
