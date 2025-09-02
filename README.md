@@ -130,7 +130,9 @@ def process_pdf_batch(pdf_directory, llm):
             results[pdf_name] = process_pdf_with_vision(
                 pdf_name=pdf_name,
                 pdf=pdf_bytes,
-                llm=llm
+                llm=llm,
+                vision_prompt="First prompt to get the information out of image",
+                reinforced_prompt="Re inforced prompt to make sure all information is extracted"
             )
             print(f"✓ Processed: {pdf_name}")
 
@@ -292,7 +294,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues, questions, or feature requests:
 
-1. Check the [documentation](https://github.com/your-repo/pure-visual-grounding)
+1. Check the [documentation](https://github.com/hamidkhalid-saar/pure-visual-grounding)
 2. Review existing issues on GitHub
 3. Create a new issue with detailed information
 
