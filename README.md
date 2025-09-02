@@ -1,6 +1,5 @@
 # Pure Visual Grounding
 
-[![PyPI version](https://badge.fury.io/py/pure-visual-grounding.svg)](https://badge.fury.io/py/pure-visual-grounding)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
